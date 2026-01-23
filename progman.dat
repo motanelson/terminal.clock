@@ -1,0 +1,7 @@
+
+[acessorios]
+notepad = echo notepad; notepad.exe
+calc = echo calc; calc.exe
+
+[paint]
+paint = echo paint; paint.exe
