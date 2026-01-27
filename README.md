@@ -1,2 +1,1 @@
-# java.program
-java program 
+python binary numbers
